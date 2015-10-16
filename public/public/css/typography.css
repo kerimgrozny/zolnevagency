@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+.center {
+	text-align: center;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 25px;
+}
+
+/* styles heading font size
+to its default because template font set them all 100%
+*/
+h1 {
+	font-size: 36px
+}
+h2 {
+	font-size: 24px
+}
+h3 {
+	font-size: 21px
+}
+h4 {
+	font-size: 18px
+}
+h5 {
+	font-size: 16px
+}
+h6 {
+	font-size: 14px
+}
+
+.threeColImg {
+		
+}
+
+.oneColImg {
+	max-width: 100%;
+	height: auto;
+}
+
+.twoColImg {
+	width: 380px;	
+}
+
+.threeColImg {
+	width: 250px;	
+}
